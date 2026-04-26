@@ -9,10 +9,11 @@ I care about clean architecture, maintainability, performance, and reliable deli
 ## Core stack
 React · TypeScript · Node.js · Express · Redux Toolkit · React Query · AWS
 
-Exploring: Next.js, NestJS
+## Currently expanding my stack
+Technologies I’m currently integrating into my full-stack workflow: Next.js, NestJS, GraphQL
 
 I also build and maintain a small open-source project, [dfsync](https://github.com/dfsyncjs/dfsync), where I explore request lifecycle, error handling, and reliability patterns in practice.
 
 ## Links
 - Portfolio: https://oroman.dev
-- LinkedIn: https://www.linkedin.com/in/onishchenko-roman/
+- LinkedIn: [linkedin.com/in/onishchenko-roman](https://www.linkedin.com/in/onishchenko-roman/)
